@@ -16,7 +16,7 @@ Install the following:
 
 [Bot Emulator](https://emulator.botframework.com/)
 
-## Guide
+## Guide - NodeJS
 
 1. Download the source code from [GitHub](https://github.com/jesperjakobsen/BitLab) (https://github.com/jesperjakobsen/BitLab).
 
@@ -31,6 +31,14 @@ npm install
 4. Press F5 to run the project and open the emulator and navigate to the url (http://localhost:3978/api/messages)
 
 5. Build something fun!
+
+## Guide - LUIS.ai
+
+1. Login to LUIS.ai, under the "My Keys"-page press buy a new key on Azure.
+
+2. Create a cognitive service account on the free tier (F0). This should take you back to the LUIS.ai portal.
+
+
 
 ## Documentation
 
