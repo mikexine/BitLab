@@ -1,4 +1,4 @@
-# BitLab - bot Workshop
+# BitLab - bot workshop
 ## Agenda
 Build the best BitLab bot possible in around 2 hours!
 
