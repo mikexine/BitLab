@@ -38,6 +38,7 @@ npm install
 
 2. Create a cognitive service account on the free tier (F0). This should take you back to the LUIS.ai portal.
 
+3. Start the tutorial to get started, it's pretty short and gives an excellent introduction to LUIS.ai.
 
 
 ## Documentation
