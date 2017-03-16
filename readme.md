@@ -40,7 +40,6 @@ npm install
 
 3. Start the tutorial to get started, it's pretty short and gives an excellent introduction to LUIS.ai.
 
-
 ## Documentation
 
 ### General
