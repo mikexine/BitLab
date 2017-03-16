@@ -23,7 +23,7 @@ var intents = new builder.IntentDialog({
     //recognizers: [recognizer]
 });
 
-//Bing the dialog to the intents
+//Bind the intents to the root
 bot.dialog("/", intents);
 
 //The simplest intent possible (RegEx)
