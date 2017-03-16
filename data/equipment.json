@@ -1,0 +1,38 @@
+[
+    {
+        "Available": "TRUE",
+        "Item": "3D Printer",
+        "Notes": "Install Makerbot software",
+        "Contact": "bitlab@cbs.dk"
+    },
+    {
+        "Available": "FALSE",
+        "Item": "Raspberry PI",
+        "Notes": "Raspberries are cool <3",
+        "Contact": "bitlab@cbs.dk"
+    },
+    {
+        "Available": "TRUE",
+        "Item": "HTC Vive Set",
+        "Notes": "Bring a Windows PC with a powerful graphic card",
+        "Contact": "bitlab@cbs.dk"
+    },
+    {
+        "Available": "TRUE",
+        "Item": "Recorders",
+        "Notes": "2 gb internal memory",
+        "Contact": "bitlab@cbs.dk"
+    },
+    {
+        "Available": "TRUE",
+        "Item": "360 camera",
+        "Notes": "Get in touch with Bitlab ~1 week before you will need it",
+        "Contact": "bitlab@cbs.dk"
+    },
+    {
+        "Available": "TRUE",
+        "Item": "Cloud Server",
+        "Notes": "Describe your use case and send your public key along with it",
+        "Contact": "bitlab@cbs.dk, amc.itm@cbs.dk"
+    }
+]
